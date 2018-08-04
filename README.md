@@ -1,4 +1,5 @@
-# Tweet Fighter ![bird](https://github.com/awasicek/TweetFighter/blob/master/twitter_bird_xx.jpg?raw=true)
+![bird](https://github.com/awasicek/TweetFighter/blob/master/twitter_bird_xx.jpg?raw=true)
+# Tweet Fighter 
 
 ##### by Andrew Wasicek
 
@@ -22,8 +23,6 @@ Harnessing the power of technologies such as JavaFX and Twitter's own public API
 
 ## Mockups
 
-Intro Screen:
 ![intro screen](https://github.com/awasicek/TweetFighter/blob/master/Tweet%20Fighter%20Mockup%20-%20Intro%20Screen.png?raw=true)
 
-Battle Screen:
 ![battle screen](https://github.com/awasicek/TweetFighter/blob/master/Tweet%20Fighter%20Mockup%20-%20Battle%20Screen.png?raw=true)
