@@ -1,4 +1,4 @@
-# Tweet Fighter 
+# Tweet Fighter ![bird](https://github.com/awasicek/TweetFighter/blob/master/twitter_bird_xx.jpg?raw=true)
 
 ##### by Andrew Wasicek
 
@@ -19,3 +19,11 @@ Harnessing the power of technologies such as JavaFX and Twitter's own public API
 (3) Game engine (e.g., use Timer class and action listener to draw frames)
 
 (4) Gameplay where the user "fights" the oncoming tweets
+
+## Mockups
+
+Intro Screen:
+![intro screen](https://github.com/awasicek/TweetFighter/blob/master/Tweet%20Fighter%20Mockup%20-%20Intro%20Screen.png?raw=true)
+
+Battle Screen:
+![battle screen](https://github.com/awasicek/TweetFighter/blob/master/Tweet%20Fighter%20Mockup%20-%20Battle%20Screen.png?raw=true)
