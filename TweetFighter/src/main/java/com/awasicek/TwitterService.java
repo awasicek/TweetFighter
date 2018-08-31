@@ -40,16 +40,16 @@ import javafx.util.Pair;
 // https://developer.twitter.com/en/docs/basics/authentication/guides/authorizing-a-request
 public class TwitterService {
 
-	private final String bearerToken = "AAAAAAAAAAAAAAAAAAAAADNW8QAAAAAAAJPEvrSEXtp%2FbJ4prsf%2FSLGaOOs%3DR9QWffmS0ZGDYuR11GejDPcxVqcjQ7Sd9wpyohT4GD4uwNL2jJ";
+	private final String bearerToken = "";
 
 	
 	// TODO put in environment/safer/more appropriate location
 	
 	public static String screenName = "";
 
-	private final String consumerSecret = "b62DC2teUyf9eLNYFOpuWOXs7rh6VVPdYAtsv1shVZfLzExXRb"; 
+	private final String consumerSecret = ""; 
 
-	private final String tokenSecret = "tH4VhjuNGxnpKwotARJvO9TiFbRYM2d2uzVoCHbemGfAb";
+	private final String tokenSecret = "";
 	
 	public void encode() 
 	{
@@ -74,7 +74,7 @@ public class TwitterService {
 		
 		// (1) Consumer key
 		// The oauth_consumer_key identifies which application is making the request. Obtain this value from the settings page for your Twitter app in the developer portal.
-		String oauth_consumer_key = "YDIhLsKqaZ1beZoGagyWJ4en6"; 
+		String oauth_consumer_key = ""; 
 		
 		// (2) Nonce
  		// The oauth_nonce parameter is a unique token your application should generate for each unique request. 
